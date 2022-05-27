@@ -1,4 +1,4 @@
-# Comprehensive-E2E-TTS - PyTorch Implementation
+# Comprehensive-E2E-TTS - PyTorch Implementation, Previous version
 
 **A Non-Autoregressive End-to-End** Text-to-Speech (generating waveform given text), supporting a family of SOTA unsupervised duration modelings. This project grows with the research community, **aiming to achieve the ultimate E2E-TTS**. Any suggestions toward the best End-to-End TTS are welcome :)
 
